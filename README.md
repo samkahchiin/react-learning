@@ -205,7 +205,6 @@ export default App;
 
 ## Class-based VS functional-based Components
 
-| ---------- | ----------- |
 | class-based | functional |
 | ---------- | ----------- |
 | class XY extends Component | const XY = props => { ... } |
