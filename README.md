@@ -582,3 +582,6 @@ const EnhancedComponent = higherOrderComponent(WrappedComponent);
 - When we need to pass a props across multiple layers
 
 ### `contextType` and `useContext`
+
+## Routing
+- !(Routing)[routing.pdf]
